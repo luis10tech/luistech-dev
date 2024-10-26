@@ -47,25 +47,25 @@ export const SOCIALS: Socials = [
   {
     NAME: "Email",
     ICON: "email",
-    TEXT: "luistech10@gmail.com",
-    HREF: "mailto:luistech10@gmail.com",
+    TEXT: "luis10tech@gmail.com",
+    HREF: "mailto:luis@gmail.com",
   },
   {
     NAME: "Github",
     ICON: "github",
-    TEXT: "luisdev00",
-    HREF: "https://github.com/luisdev00",
+    TEXT: "luis10tech",
+    HREF: "https://github.com/luis10tech",
   },
   {
     NAME: "LinkedIn",
     ICON: "linkedin",
     TEXT: "luiscolm",
-    HREF: "https://www.linkedin.com/in/luiscolm/",
+    HREF: "https://www.linkedin.com/in/luis10tech/",
   },
   {
     NAME: "Twitter",
     ICON: "twitter-x",
     TEXT: "luisdev00",
-    HREF: "https://twitter.com/luisdev00",
+    HREF: "https://twitter.com/luis10tech",
   },
 ];
